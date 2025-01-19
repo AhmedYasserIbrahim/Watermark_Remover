@@ -41,7 +41,7 @@ While the initial steps work well, it currently requires:
 - Payment for an API that fully automates the process.
 
 ## Demonstration
-Please refer to the [video]() for a demonstration of how the program works.
+Please refer to the [video](https://github.com/AhmedYasserIbrahim/Watermark_Remover/blob/main/Demo.mp4) for a demonstration of how the program works.
 
 ## Disclaimer
 This tool is intended **only for testing** and should **not** be used for commercial purposes.
