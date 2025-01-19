@@ -19,7 +19,7 @@ I experimented with several libraries and tools:
 - **Tesseract OCR (pytesseract)**
 - **ffmpeg**
 
-None met the quality needed, so I resorted to the code found [here](). 
+None met the quality needed, so I resorted to the code found [here](https://github.com/AhmedYasserIbrahim/Watermark_Remover/blob/main/app.py). 
 
 ## Make.com Integration
 I also explored a **Make.com** approach using APIs. Two common APIs considered:
